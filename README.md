@@ -4,9 +4,10 @@
 My name is Ibrahim Abd El Rahman and Im a Front-End Web Develober who creates and designs different websites for clients. 
 Recognized for leadership and collaborative abilities when working in a team setting. Motivation to provide customers with easy-to-use applications.
 
-
+### Info 🌱
 ```bach
-Email:info@ibrahim-abdelrahman.com
+Email: ibrahim.abdelrahman.abdelaziz@gmail.com
+website: ibrahim-abdelrahman.com
 ```
 
 I have skills in some programming languages ​
@@ -18,7 +19,6 @@ Html5, Css3 , Javascript ,PHP,SQL
    - Css3
    - Sass
    - Js
-   - PHP 
    - React
    - Next.js
    - Angular
