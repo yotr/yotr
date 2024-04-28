@@ -10,10 +10,6 @@ Email: ibrahim.abdelrahman.abdelaziz@gmail.com
 website: ibrahim-abdelrahman.com
 ```
 
-I have skills in some programming languages ​
-Html5, Css3 , Javascript ,PHP,SQL
-& FrameWork like Reactjs,
-
   ## 🖥️ Skills 
    - Html5 
    - Css3
