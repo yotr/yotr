@@ -20,6 +20,8 @@ website: ibrahim-abdelrahman.com
    - Angular
    - Node.js
    - SQL
+   - .Net
+   - Flutter
  
 
 
