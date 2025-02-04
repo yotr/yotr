@@ -15,6 +15,7 @@ website: ibrahim-abdelrahman.com
    - Css3
    - Sass
    - Js
+   - Dart
    - React
    - Next.js
    - Angular
